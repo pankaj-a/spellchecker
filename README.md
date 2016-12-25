@@ -3,6 +3,7 @@ A spell checker program built in C++ uses various techniques and compares them.
 Requirements:
 The project was compiled using C++11 in Ubuntu 14.04
 To run:
+
 	Navigate to the project directory in the terminal.
 	Type make and enter(All the object files are created).
 	Type ./spellcheck to run the program.
